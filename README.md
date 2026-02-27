@@ -10,6 +10,15 @@ These are the main take-away points from this analysis:
 5. Customer spending distribution is heavily right-skewed, showing that most customers are low-to-moderate spenders.
 6. Average order value stays relatively stable across the dataset.
 
+## Monthly Revenue Trend
+![Monthly Revenue](figures/Monthly_revenue.png)
+
+## Customer Spending
+![Customer Spending](figures/Customer_spending.png)
+
+## Growth Rate
+![Growth_Rate](figures/Growth_rate.png)
+
 ## Dataset
 
 This project uses the **Online Retail Dataset** (UK retail transactions), publicly available on Kaggle. The dataset contains 500,000+ invoice-level transactions from a UK online retailer, including:
