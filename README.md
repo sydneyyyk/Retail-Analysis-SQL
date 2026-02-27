@@ -11,7 +11,7 @@ These are the main take-away points from this analysis:
 6. Average order value stays relatively stable across the dataset.
 
 ## Monthly Revenue Trend
-![Monthly Revenue](figures/Monthly_revenue.png)
+![Monthly Revenue](figures/Monthly_Revenue.png)
 
 ## Customer Spending
 ![Customer Spending](figures/Customer_spending.png)
