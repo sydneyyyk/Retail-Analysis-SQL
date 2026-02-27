@@ -9,3 +9,18 @@ These are the main take-away points from this analysis:
 4. The top 10 customers account for approximately 17% of total revenue, suggesting moderate customer concentration.
 5. Customer spending distribution is heavily right-skewed, showing that most customers are low-to-moderate spenders.
 6. Average order value stays relatively stable across the dataset.
+
+## Dataset
+
+This project uses the **Online Retail Dataset** (UK retail transactions), publicly available on Kaggle. The dataset contains 500,000+ invoice-level transactions from a UK online retailer, including:
+
+- Invoice number  
+- Stock code  
+- Product description  
+- Quantity  
+- Unit price  
+- Customer ID  
+- Country  
+- Invoice date  
+
+Dataset source:  https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
